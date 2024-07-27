@@ -1,4 +1,4 @@
-# Brazil Stocks Tickers JSON Repository
+# Brazil Stocks Tickers JSON
 
 ## Overview
 
