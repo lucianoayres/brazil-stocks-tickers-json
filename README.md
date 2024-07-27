@@ -22,3 +22,17 @@ The JSON file consists of an array of objects, where each object represents a co
   ...
 ]
 ```
+
+## JSON Sorting Script Usage
+
+This script sorts the items in the JSON file alphabetically by the ticker property value. It generates a new JSON file with the sorted data.
+
+### Usage
+
+To run the script, use the following command:
+
+```bash
+./scripts/sort_json_by_ticker.sh b3_stocks_tickers.json
+```
+
+This command will create a sorted version of the `b3_stocks_tickers.json` file. The sorted file will be saved as `sorted_b3_stocks_tickers.json` in the same directory.
